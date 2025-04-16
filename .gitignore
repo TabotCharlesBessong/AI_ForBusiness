@@ -46,7 +46,10 @@ htmlcov/
 nosetests.xml
 coverage.xml
 *.cover
+*.sqlite
 *.py,cover
+/sentiment/DATA/Reviews.csv
+/sentiment/DATA/nltk_data
 .hypothesis/
 .pytest_cache/
 cover/
